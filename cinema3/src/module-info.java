@@ -1,0 +1,2 @@
+module cinema2 {
+}
